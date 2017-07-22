@@ -4,3 +4,4 @@
 - 删除index
 - remote编辑测试pull
 # 主分支
+- 线上编辑主分支
